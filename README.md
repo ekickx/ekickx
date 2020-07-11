@@ -5,6 +5,8 @@
 - 🎮 I also do play games. But most of them are gacha games
 - ▶️ Currently I'm adicted to vtuber
 
+Current profile picture by [チビッキ✂️](https://twitter.com/Chibikki_ikki/)
+
 <!--
 **ekickx/ekickx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
