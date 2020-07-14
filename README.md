@@ -4,7 +4,6 @@
 
 - 👨‍🎓 I'm just your regular undergraduate student
 - 💻 I use Debian as my main OS
-- 🎮 I play some gacha games, like SinoAlice, Arknights, Idolm@ster: Shiny Colors
-- ▶️ Currently I'm adicted to vtuber
+- 📖 Currently I'm learning gtk & vala
 
 Current profile picture by [チビッキ✂️](https://twitter.com/Chibikki_ikki/)
