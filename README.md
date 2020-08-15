@@ -5,5 +5,3 @@
 - 👨‍🎓 I'm just your regular undergraduate student
 - 💻 I use Debian as my main OS
 - 📖 Currently I'm learning gtk & vala
-
-Current profile picture by [チビッキ✂️](https://twitter.com/Chibikki_ikki/)
