@@ -14,8 +14,8 @@ Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I
 
 ## Curently Learning 🤓
 ![](https://img.shields.io/badge/-Eleventy-informational?style=for-the-badge&logo=eleventy&logoColor=white&color=000000)
-![](https://img.shields.io/badge/-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=A81D33)
-![](https://img.shields.io/badge/-Gulp-informational?style=for-the-badge&logo=gulp&logoColor=white&color=A81D33)
-![](https://img.shields.io/badge/-Lua-informational?style=for-the-badge&logo=lua&logoColor=white&color=A81D33)
-![](https://img.shields.io/badge/-PostCSS-informational?style=for-the-badge&logo=postcss&logoColor=white&color=A81D33)
-![](https://img.shields.io/badge/-Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=white&color=A81D33)
+![](https://img.shields.io/badge/-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
+![](https://img.shields.io/badge/-Gulp-informational?style=for-the-badge&logo=gulp&logoColor=white&color=CF4647)
+![](https://img.shields.io/badge/-Lua-informational?style=for-the-badge&logo=lua&logoColor=white&color=2C2D72)
+![](https://img.shields.io/badge/-PostCSS-informational?style=for-the-badge&logo=postcss&logoColor=white&color=DD3A0A)
+![](https://img.shields.io/badge/-Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38B2AC)
