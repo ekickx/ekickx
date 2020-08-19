@@ -10,9 +10,10 @@ Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I
 ![](https://img.shields.io/badge/-XFCE-informational?style=for-the-badge&logo=xfce&logoColor=white&color=2284F2)
 ![](https://img.shields.io/badge/-AwesomeWM-informational?style=for-the-badge&logo=awesomewm&logoColor=white&color=535D6C)
 
+## Curently Learning 🤓
+
 <img src="https://webusstatic.yo-star.com/ark_us_web/assets/159229525944611258/b05fc02b97949454e56c3b140790584e.png?x-oss-process=image/resize,w_200" align=right height=130em>
 
-## Curently Learning 🤓
 ![](https://img.shields.io/badge/-Eleventy-informational?style=for-the-badge&logo=eleventy&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
 ![](https://img.shields.io/badge/-Gulp-informational?style=for-the-badge&logo=gulp&logoColor=white&color=CF4647)
