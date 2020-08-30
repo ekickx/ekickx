@@ -2,6 +2,8 @@
 
 Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager.
 
+<img src="https://webusstatic.yo-star.com/ark_us_web/assets/159229525944611258/d85060be4f7a4a4d1435b2812773ca30.png?x-oss-process=image/resize,w_210" align=right>
+
 ## My Working Environment 😎
 ![](https://img.shields.io/badge/-Debian-informational?style=for-the-badge&logo=debian&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/-ZSH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=C97E84)
@@ -10,45 +12,7 @@ Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I
 ![](https://img.shields.io/badge/-XFCE-informational?style=for-the-badge&logo=xfce&logoColor=white&color=2284F2)
 ![](https://img.shields.io/badge/-AwesomeWM-informational?style=for-the-badge&logo=awesomewm&logoColor=white&color=535D6C)
 
-## My Statistics
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    42 commits     █████░░░░░░░░░░░░░░░░░░░░   20.19% 
-🌆 Daytime    57 commits     ██████░░░░░░░░░░░░░░░░░░░   27.4% 
-🌃 Evening    68 commits     ████████░░░░░░░░░░░░░░░░░   32.69% 
-🌙 Night      41 commits     █████░░░░░░░░░░░░░░░░░░░░   19.71%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       48 commits     █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Tuesday      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-Wednesday    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
-Thursday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Friday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.58% 
-Saturday     36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.1%
-
-```
-
-
-📊 **This Week I Spend My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
-<!--END_SECTION:waka-->
-
 ## Curently Learning 🤓
-
-<img src="https://webusstatic.yo-star.com/ark_us_web/assets/159229525944611258/b05fc02b97949454e56c3b140790584e.png?x-oss-process=image/resize,w_200" align=right height=130em>
 
 [![](https://img.shields.io/badge/-Eleventy-informational?style=for-the-badge&logo=eleventy&logoColor=white&color=000000)](https://www.11ty.dev/)
 [![](https://img.shields.io/badge/-Go-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)](https://golang.org/)
@@ -56,3 +20,8 @@ No Activity Tracked This Week
 [![](https://img.shields.io/badge/-Lua-informational?style=for-the-badge&logo=lua&logoColor=white&color=2C2D72)](http://www.lua.org/)
 [![](https://img.shields.io/badge/-PostCSS-informational?style=for-the-badge&logo=postcss&logoColor=white&color=DD3A0A)](https://postcss.org/)
 [![](https://img.shields.io/badge/-Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38B2AC)](https://tailwindcss.com/)
+
+
+## My Statistics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
