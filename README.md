@@ -2,9 +2,10 @@
 
 Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager.
 
+## My Working Environment 😎
+
 <img src="https://webusstatic.yo-star.com/ark_us_web/assets/159229525944611258/d85060be4f7a4a4d1435b2812773ca30.png?x-oss-process=image/resize,w_210" align=right>
 
-## My Working Environment 😎
 ![](https://img.shields.io/badge/-Debian-informational?style=for-the-badge&logo=debian&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/-ZSH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=C97E84)
 ![](https://img.shields.io/badge/-Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=57A143)
