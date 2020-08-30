@@ -12,6 +12,79 @@ Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I
 
 ## My Statistic on This Week 📊
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 114 Contributions in the year 2020
+ > 
+> 📦 166.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public repositories
+ > 
+> 🔑 13 Private repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    42 commits     █████░░░░░░░░░░░░░░░░░░░░   21.32% 
+🌆 Daytime    57 commits     ███████░░░░░░░░░░░░░░░░░░   28.93% 
+🌃 Evening    68 commits     ████████░░░░░░░░░░░░░░░░░   34.52% 
+🌙 Night      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.78% 
+Tuesday      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.15% 
+Wednesday    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
+Thursday     32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
+Friday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
+Saturday     36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.27% 
+Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.66%
+
+```
+
+
+📊 **This Week I Spend My Time On** 
+
+```text
+⌚︎ Time zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Code Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Shell** 
+
+```text
+Shell                    4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/ekickx/ekickx/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ## Curently Learning 🤓
