@@ -1,5 +1,4 @@
 on:
-  member: ekickx
   schedule:
     - cron: '30 17 * * *'
 
