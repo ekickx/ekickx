@@ -10,7 +10,7 @@ Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I
 ![](https://img.shields.io/badge/-XFCE-informational?style=for-the-badge&logo=xfce&logoColor=white&color=2284F2)
 ![](https://img.shields.io/badge/-AwesomeWM-informational?style=for-the-badge&logo=awesomewm&logoColor=white&color=535D6C)
 
-## My Statistic on This Week 📊
+## My Statistics
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
