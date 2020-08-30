@@ -4,7 +4,7 @@ Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I
 
 ## My Working Environment 😎
 
-<img src="https://webusstatic.yo-star.com/ark_us_web/assets/159229525944611258/d85060be4f7a4a4d1435b2812773ca30.png?x-oss-process=image/resize,w_190" align=right>
+<img src="https://webusstatic.yo-star.com/ark_us_web/assets/159229525944611258/d85060be4f7a4a4d1435b2812773ca30.png?x-oss-process=image/resize,w_170" align=right>
 
 ![](https://img.shields.io/badge/-Debian-informational?style=for-the-badge&logo=debian&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/-ZSH-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=C97E84)
