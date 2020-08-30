@@ -1,4 +1,6 @@
 on:
+  push:
+    branches: master
   schedule:
     - cron: '30 17 * * *'
       
@@ -22,3 +24,4 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_PROJECTS: "False"
           SHOW_OS: "False"
+          SHOW_PROFILE_VIEWS: "False"
