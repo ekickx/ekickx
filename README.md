@@ -1,6 +1,6 @@
 # Welcome to My Github Profile 👋😁
 
-Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager. For shell ofc I use ZSH with [zplug](https://github.com/zplug/zplug) as plugin manager. Mainly I use [Neovim](https://neovim.io/) to write my code. And recently I'm interested in emacs's org-mode. Finally, I chose [Doom Emacs](https://github.com/hlissner/doom-emacs) for my emacs's configuration.
+Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager.
 
 ## My Working Environment 😎
 ![](https://img.shields.io/badge/-Debian-informational?style=for-the-badge&logo=debian&logoColor=white&color=A81D33)
@@ -9,6 +9,10 @@ Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I
 ![](https://img.shields.io/badge/-Emacs-informational?style=for-the-badge&logo=gnu-emacs&logoColor=white&color=7F5AB6)
 ![](https://img.shields.io/badge/-XFCE-informational?style=for-the-badge&logo=xfce&logoColor=white&color=2284F2)
 ![](https://img.shields.io/badge/-AwesomeWM-informational?style=for-the-badge&logo=awesomewm&logoColor=white&color=535D6C)
+
+## My Statistic on This Week 📊
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Curently Learning 🤓
 
