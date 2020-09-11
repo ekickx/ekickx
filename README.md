@@ -1,7 +1,7 @@
 # Welcome to My Github Profile 👋😁
 
-<!--START_SECTION:debris-->      
-"There are 1,575 steps from the ground floor to the top of the Empire State building."
+<!--START_SECTION:debris-->       
+"Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured."
 <!--END_SECTION:debris-->
 
 Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager.
