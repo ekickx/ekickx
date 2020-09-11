@@ -1,5 +1,8 @@
 # Welcome to My Github Profile 👋😁
 
+<!--START_SECTION:debris-->   
+<!--END_SECTION:debris-->
+
 Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager.
 
 ## My Working Environment 😎
