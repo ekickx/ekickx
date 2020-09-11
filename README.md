@@ -1,8 +1,15 @@
-# Welcome to My Github Profile 👋😁
+## Welcome to My Github Profile 👋😁
 
-<!--START_SECTION:debris-->       
-"Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured."
+### Did you know that
+
+<h2>
+  <blockquote>
+<!--START_SECTION:debris-->    
 <!--END_SECTION:debris-->
+  </blockquote>
+</h2>
+
+## I am 🤔
 
 Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager.
 
