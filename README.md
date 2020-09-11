@@ -1,7 +1,7 @@
 # Welcome to My Github Profile 👋😁
 
-<!--START_SECTION:debris-->     
-"If done perfectly, a rubix cube combination can be solved in 17 turns."
+<!--START_SECTION:debris-->      
+"There are 1,575 steps from the ground floor to the top of the Empire State building."
 <!--END_SECTION:debris-->
 
 Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager.
