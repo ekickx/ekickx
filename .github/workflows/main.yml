@@ -15,7 +15,7 @@ jobs:
       - name: Debris action
         uses: ekickx/debris@master 
         with:
-          fact_args: 'random'
+          fact_args: 'today'
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@V3
         with:
