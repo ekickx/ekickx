@@ -2,7 +2,7 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->        
+<!--START_SECTION:debris-->
 "In most advertisements, including newspapers, the time displayed on a watch is 10:10."
 <!--END_SECTION:debris-->
   </blockquote>
