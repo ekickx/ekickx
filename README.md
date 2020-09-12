@@ -1,6 +1,4 @@
-## Welcome to My Github Profile 👋😁
-
-### Did you know that
+## Did you know that
 
 <h3>
   <blockquote>
