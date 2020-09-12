@@ -2,8 +2,7 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->
-"In most advertisements, including newspapers, the time displayed on a watch is 10:10."
+<!--START_SECTION:debris--> 
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
@@ -34,18 +33,5 @@ Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I
 
 
 ## My Statistics
-<!--START_SECTION:waka-->
-📊 **This Week I Spend My Time On** 
 
-```text
-💬 Programming Languages: 
-Bash                     2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.43% 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
-HTML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
-Docker                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.41%
-
-```
-
-
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide=issues&username=ekickx"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ekickx">
