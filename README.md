@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->     
-"In Miconesia, coins are 12 feet across."
+<!--START_SECTION:debris-->      
+"South Dakota is the only U.S state which shares no letters with the name of it`s capital"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
