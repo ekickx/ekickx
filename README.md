@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->       
-"The longest word comprised of one row on the keyboard is: TYPEWRITER"
+<!--START_SECTION:debris-->        
+"The name Wendy was made up for the book "Peter Pan.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
