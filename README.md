@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->      
-"South Dakota is the only U.S state which shares no letters with the name of it`s capital"
+<!--START_SECTION:debris-->       
+"The longest word comprised of one row on the keyboard is: TYPEWRITER"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
