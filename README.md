@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->        
-"The name Wendy was made up for the book "Peter Pan.""
+<!--START_SECTION:debris-->         
+"The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
