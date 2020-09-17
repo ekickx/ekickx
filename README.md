@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->          
-"The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  "
+<!--START_SECTION:debris-->           
+"Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
