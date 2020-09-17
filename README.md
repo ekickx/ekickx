@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->           
-"Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark."
+<!--START_SECTION:debris-->            
+"Honking of car horns for a couple that just got married is an old superstition to insure great sex."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
