@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->            
-"Honking of car horns for a couple that just got married is an old superstition to insure great sex."
+<!--START_SECTION:debris-->             
+"The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
