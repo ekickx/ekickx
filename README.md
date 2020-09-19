@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->              
-"Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension."
+<!--START_SECTION:debris-->               
+"Elephants are the only animals that can`t jump."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
