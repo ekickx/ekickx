@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->             
-"The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second."
+<!--START_SECTION:debris-->              
+"Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
