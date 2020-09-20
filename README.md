@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                
-"More people are killed annually by donkeys than airplane crashes."
+<!--START_SECTION:debris-->                 
+"Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
