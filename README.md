@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->               
-"Elephants are the only animals that can`t jump."
+<!--START_SECTION:debris-->                
+"More people are killed annually by donkeys than airplane crashes."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
