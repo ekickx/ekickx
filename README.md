@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                  
-"Honking of car horns for a couple that just got married is an old superstition to insure great sex."
+<!--START_SECTION:debris-->                   
+"The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
