@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                    
-"Kelsey Grammar sings and plays the piano for the theme song of Fraiser."
+<!--START_SECTION:debris-->                     
+"An ostrich`s eye is bigger than its brain.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
