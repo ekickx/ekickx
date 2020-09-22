@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                     
-"An ostrich`s eye is bigger than its brain.  "
+<!--START_SECTION:debris-->                      
+"The very first song played on MTV was `Video Killed The Radio Star` by the Buggles."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
