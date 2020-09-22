@@ -1,4 +1,4 @@
-## Did you know that
+## Did you know that 🤔
 
 <h3>
   <blockquote>
@@ -8,7 +8,7 @@
   </blockquote>
 </h3>
 
-## I am 🤔
+## I am 👦🏽
 
 Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager.
 
