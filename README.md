@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                      
-"The very first song played on MTV was `Video Killed The Radio Star` by the Buggles."
+<!--START_SECTION:debris-->                       
+"The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
