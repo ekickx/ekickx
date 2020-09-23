@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                       
-"The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)"
+<!--START_SECTION:debris-->                        
+"If done perfectly, a rubix cube combination can be solved in 17 turns."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
