@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                        
-"If done perfectly, a rubix cube combination can be solved in 17 turns."
+<!--START_SECTION:debris-->                         
+"The average person spends about two years on the phone in a lifetime."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
