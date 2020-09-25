@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                          
-"Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th."
+<!--START_SECTION:debris-->                           
+"The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
