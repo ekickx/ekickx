@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                               
-"If done perfectly, a rubix cube combination can be solved in 17 turns."
+<!--START_SECTION:debris-->                                
+"It has NEVER rained in Calama, a town in the Atacama Desert of Chile."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
