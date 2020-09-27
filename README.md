@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                              
-"Barbie`s measurements, if she were life-size, would be 39-29-33."
+<!--START_SECTION:debris-->                               
+"If done perfectly, a rubix cube combination can be solved in 17 turns."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
