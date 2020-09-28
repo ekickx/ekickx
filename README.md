@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                
-"It has NEVER rained in Calama, a town in the Atacama Desert of Chile."
+<!--START_SECTION:debris-->                                 
+"166,875,000,000 pieces of mail are delivered each year in the US"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
