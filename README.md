@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                 
-"166,875,000,000 pieces of mail are delivered each year in the US"
+<!--START_SECTION:debris-->                                  
+"The San Francisco Cable cars are the only mobile National Monuments."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
