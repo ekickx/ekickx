@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                   
-"Shakespeare is quoted 33,150 times in the Oxford English dictionary."
+<!--START_SECTION:debris-->                                    
+"On average, Americans eat 18 acres of pizza everyday."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
