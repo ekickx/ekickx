@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                  
-"The San Francisco Cable cars are the only mobile National Monuments."
+<!--START_SECTION:debris-->                                   
+"Shakespeare is quoted 33,150 times in the Oxford English dictionary."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
