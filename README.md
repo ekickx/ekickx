@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                     
-"A giraffe can go without water longer than a camel."
+<!--START_SECTION:debris-->                                      
+"Maine is the only state whose name is just one syllable."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
