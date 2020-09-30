@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                    
-"On average, Americans eat 18 acres of pizza everyday."
+<!--START_SECTION:debris-->                                     
+"A giraffe can go without water longer than a camel."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
