@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                        
-"Average number of days a West German goes without washing his underwear: 7"
+<!--START_SECTION:debris-->                                         
+"The most common street name in the U.S. is Second Street."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
