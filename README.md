@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                         
-"The most common street name in the U.S. is Second Street."
+<!--START_SECTION:debris-->                                          
+"If Texas were a country, its GNP would be the fifth largest of any country in the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
