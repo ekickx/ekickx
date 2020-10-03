@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                          
-"If Texas were a country, its GNP would be the fifth largest of any country in the world."
+<!--START_SECTION:debris-->                                           
+"It was discovered on a space mission that a frog can throw up. The frog throws up its stomach first, so the stomach is dangling out of its mouth. Then the frog uses its forearms to dig out all of the stomach`s contents and then swallows the stomach back down."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
