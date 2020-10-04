@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                             
-"Barbie`s full name is Barbara Millicent Roberts."
+<!--START_SECTION:debris-->                                              
+"Over 1000 birds a year die from smashing into windows!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
