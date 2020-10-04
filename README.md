@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                            
-"Honey is the only food which does not spoil."
+<!--START_SECTION:debris-->                                             
+"Barbie`s full name is Barbara Millicent Roberts."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
