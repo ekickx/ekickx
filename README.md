@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                              
-"Over 1000 birds a year die from smashing into windows!"
+<!--START_SECTION:debris-->                                               
+"There are more than 10 million bricks in the Empire State Building!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
