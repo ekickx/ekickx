@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                
-""Dreamt" is the only English word that ends in the letters "mt.""
+<!--START_SECTION:debris-->                                                 
+"Over 1000 birds a year die from smashing into windows!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
