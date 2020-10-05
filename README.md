@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                               
-"There are more than 10 million bricks in the Empire State Building!"
+<!--START_SECTION:debris-->                                                
+""Dreamt" is the only English word that ends in the letters "mt.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
