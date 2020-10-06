@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                 
-"Over 1000 birds a year die from smashing into windows!"
+<!--START_SECTION:debris-->                                                  
+"Shakespeare invented the word `assassination` and `bump`."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
