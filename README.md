@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                  
-"Shakespeare invented the word `assassination` and `bump`."
+<!--START_SECTION:debris-->                                                   
+"Camels have three eyelids to protect themselves from blowing sand!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
