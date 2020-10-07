@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                    
-"In Vermont, the ratio of cows to people is 10:1"
+<!--START_SECTION:debris-->                                                     
+"The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
