@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                   
-"Camels have three eyelids to protect themselves from blowing sand!"
+<!--START_SECTION:debris-->                                                    
+"In Vermont, the ratio of cows to people is 10:1"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
