@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                     
-"The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane."
+<!--START_SECTION:debris-->                                                      
+"Between 2 and 3 jockeys are killed each year in horse racing."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
