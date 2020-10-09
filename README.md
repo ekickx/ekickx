@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                       
-"An ostrich`s eye is bigger than its brain.  "
+<!--START_SECTION:debris-->                                                        
+"The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
