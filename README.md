@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                         
-"Telly Savalas and Louis Armstrong died on their birthdays.  "
+<!--START_SECTION:debris-->                                                          
+"The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
