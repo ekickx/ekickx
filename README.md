@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                              
-"Ingrown toenails are hereditary.  "
+<!--START_SECTION:debris-->                                                               
+"Elephants are the only animals that can`t jump."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
