@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                             
-"Tigers not only have striped fur, they have striped skin!"
+<!--START_SECTION:debris-->                                                              
+"Ingrown toenails are hereditary.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
