@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                            
-"PEZ candy even comes in a Coffee flavor."
+<!--START_SECTION:debris-->                                                             
+"Tigers not only have striped fur, they have striped skin!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
