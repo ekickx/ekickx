@@ -12,7 +12,7 @@
 
 ## Who am I 👨‍🎓
 
-Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Debian as my main OS. Sometimes I switch between XFCE, Openbox, and AwesomeWM as my Window Manager.
+Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Pop OS as my main OS.
 
 ## My Statistics
 
