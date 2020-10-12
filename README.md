@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                               
-"Elephants are the only animals that can`t jump."
+<!--START_SECTION:debris-->                                                                
+"In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
