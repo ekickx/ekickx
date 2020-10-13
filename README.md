@@ -3,7 +3,6 @@
 <h3>
   <blockquote>
 <!--START_SECTION:debris-->                                                                 
-"Tom Sawyer was the first novel written on a typewriter."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
