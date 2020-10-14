@@ -9,10 +9,9 @@
 
 -----
 
-## Who am I 👨‍🎓
-
-Hello I'm just your regular undergraduate student who likes Japan Pop Culture. I use Pop OS as my main OS.
-
-## My Statistics
+<details>
+  <summary></summary>
 
 <img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide=issues&username=ekickx"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ekickx">
+
+</details>
