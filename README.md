@@ -3,7 +3,6 @@
 <h3>
   <blockquote>
 <!--START_SECTION:debris-->                                                                   
-"In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
