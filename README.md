@@ -2,7 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                   
+<!--START_SECTION:debris-->                                                                    
+"Blueberry Jelly Bellies were created especially for Ronald Reagan."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
