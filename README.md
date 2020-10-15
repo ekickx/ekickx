@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                    
-"Blueberry Jelly Bellies were created especially for Ronald Reagan."
+<!--START_SECTION:debris-->                                                                     
+"Over 60% of all those who marry get divorced."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
