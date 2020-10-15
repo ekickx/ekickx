@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                     
-"Over 60% of all those who marry get divorced."
+<!--START_SECTION:debris-->                                                                      
+"The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
