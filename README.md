@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                       
-"Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself."
+<!--START_SECTION:debris-->                                                                        
+"Owls are one of the only birds who can see the color blue!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
