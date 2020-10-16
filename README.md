@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                      
-"The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life.""
+<!--START_SECTION:debris-->                                                                       
+"Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
