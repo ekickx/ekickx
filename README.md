@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                        
-"Owls are one of the only birds who can see the color blue!"
+<!--START_SECTION:debris-->                                                                         
+"Only 6 people in the whole world have died from moshing."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
