@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                         
-"Only 6 people in the whole world have died from moshing."
+<!--START_SECTION:debris-->                                                                          
+"1 in 8 Americans has worked at a McDonalds restaurant."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
