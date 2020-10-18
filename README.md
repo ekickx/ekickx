@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                           
-"Average number of people airborne over the US any given hour: 61,000."
+<!--START_SECTION:debris-->                                                                            
+"Between 25% and 33% of the population sneeze when exposed to light."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
