@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                              
-"The Vatican city registered 0 births in 1983"
+<!--START_SECTION:debris-->                                                                               
+"When a Hawaiian woman wears a flower over her left ear, it means that she is not available."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
