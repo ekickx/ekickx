@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                               
-"When a Hawaiian woman wears a flower over her left ear, it means that she is not available."
+<!--START_SECTION:debris-->                                                                                
+""Underground" is the only word in the English language that begins and ends with the letters "und""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
