@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                
-""Underground" is the only word in the English language that begins and ends with the letters "und""
+<!--START_SECTION:debris-->                                                                                 
+"The most common street name in the U.S. is Second Street."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
