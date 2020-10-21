@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                 
-"The most common street name in the U.S. is Second Street."
+<!--START_SECTION:debris-->                                                                                  
+"If a rooster can`t fully extend its neck, it can`t crow."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
