@@ -2,7 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                       
+<!--START_SECTION:debris-->                                                                                        
+"NBA superstar Michael Jordan was originally cut from his high school basketball team."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
