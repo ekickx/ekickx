@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                      
-"Reindeer like to eat bananas."
+<!--START_SECTION:debris-->                                                                                       
+"Hot water is heavier than cold."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
