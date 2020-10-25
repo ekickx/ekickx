@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                          
-"If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth."
+<!--START_SECTION:debris-->                                                                                           
+"Peanuts are one of the ingredients of dynamite."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
