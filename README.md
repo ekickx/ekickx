@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                         
-"The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane."
+<!--START_SECTION:debris-->                                                                                          
+"If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
