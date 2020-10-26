@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                           
-"Peanuts are one of the ingredients of dynamite."
+<!--START_SECTION:debris-->                                                                                            
+"The most common name in world is Mohammed."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
