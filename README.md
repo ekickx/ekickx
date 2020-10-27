@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                             
-"A giraffe can go without water longer than a camel."
+<!--START_SECTION:debris-->                                                                                              
+"American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
