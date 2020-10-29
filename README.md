@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                  
-"The word "set" has more definitions than any other word in the English language."
+<!--START_SECTION:debris-->                                                                                                   
+"The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
