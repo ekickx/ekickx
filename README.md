@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                 
-"A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon."
+<!--START_SECTION:debris-->                                                                                                  
+"The word "set" has more definitions than any other word in the English language."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
