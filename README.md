@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                    
-"It takes about 142.18 licks to reach the center of a Tootsie pop."
+<!--START_SECTION:debris-->                                                                                                     
+"Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
