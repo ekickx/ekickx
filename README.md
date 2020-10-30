@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                   
-"The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  "
+<!--START_SECTION:debris-->                                                                                                    
+"It takes about 142.18 licks to reach the center of a Tootsie pop."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
