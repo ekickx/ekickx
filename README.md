@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                       
-"166,875,000,000 pieces of mail are delivered each year in the US"
+<!--START_SECTION:debris-->                                                                                                        
+"A dragonfly has a lifespan of 24 hours."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
