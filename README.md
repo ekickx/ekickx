@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                        
-"A dragonfly has a lifespan of 24 hours."
+<!--START_SECTION:debris-->                                                                                                         
+"PEZ candy even comes in a Coffee flavor."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
