@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                          
-"The buzz from an electric razor in America plays in the key of B flat; Key of G in England."
+<!--START_SECTION:debris-->                                                                                                           
+"In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
