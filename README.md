@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                         
-"PEZ candy even comes in a Coffee flavor."
+<!--START_SECTION:debris-->                                                                                                          
+"The buzz from an electric razor in America plays in the key of B flat; Key of G in England."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
