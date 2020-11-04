@@ -3,7 +3,6 @@
 <h3>
   <blockquote>
 <!--START_SECTION:debris-->                                                                                                              
-"The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
