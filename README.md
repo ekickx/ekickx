@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                
-""Evaluation and Parameterization of Stability and Safety Performance Characteristics of Two and Three Wheeled Vehicular Toys for Riding." Title of a $230,000 research project proposed by the Department of Health, Education and Welfare, to study the various ways children fall off bicycles."
+<!--START_SECTION:debris-->                                                                                                                 
+"Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
