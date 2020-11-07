@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                   
-"2,000 pounds of space dust and other space debris fall on the Earth every day."
+<!--START_SECTION:debris-->                                                                                                                    
+"In the average lifetime, a person will walk the equivalent of 5 times around the equator."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
