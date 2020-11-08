@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                     
-"James Bond`s car had three different license plates in Goldfinger"
+<!--START_SECTION:debris-->                                                                                                                      
+"On average, Americans eat 18 acres of pizza everyday."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
