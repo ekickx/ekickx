@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                    
-"In the average lifetime, a person will walk the equivalent of 5 times around the equator."
+<!--START_SECTION:debris-->                                                                                                                     
+"James Bond`s car had three different license plates in Goldfinger"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
