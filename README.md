@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                       
-"The average American looks at eight houses before buying one."
+<!--START_SECTION:debris-->                                                                                                                        
+"Since 1978, 37 people have died by Vending Machine`s falling on them.  13 people are killed annually.  All this while trying to shake merchandise out of them. 113 people have been injured."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
