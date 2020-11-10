@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                         
-"The San Francisco Cable cars are the only mobile National Monuments."
+<!--START_SECTION:debris-->                                                                                                                          
+"Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
