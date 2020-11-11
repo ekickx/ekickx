@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                           
-"In every episode of Seinfeld there is a Superman somewhere."
+<!--START_SECTION:debris-->                                                                                                                            
+"South Dakota is the only U.S state which shares no letters with the name of it`s capital"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
