@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                          
-"Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery."
+<!--START_SECTION:debris-->                                                                                                                           
+"In every episode of Seinfeld there is a Superman somewhere."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
