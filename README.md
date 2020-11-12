@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                             
-"Donald Duck comics were banned from Finland because he doesn`t wear pants!"
+<!--START_SECTION:debris-->                                                                                                                              
+"Thirty-five percent of people who use personal ads for dating are already married."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
