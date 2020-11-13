@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                               
-"Non-dairy creamer is flammable."
+<!--START_SECTION:debris-->                                                                                                                                
+"Each of us generates about 3.5 pounds of rubbish a day, most of it paper."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
