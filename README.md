@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                 
-"Prince Charles is an avid collecter of toilet seats."
+<!--START_SECTION:debris-->                                                                                                                                  
+"Pinocchio is Italian for "pine head.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
