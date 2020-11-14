@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                
-"Each of us generates about 3.5 pounds of rubbish a day, most of it paper."
+<!--START_SECTION:debris-->                                                                                                                                 
+"Prince Charles is an avid collecter of toilet seats."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
