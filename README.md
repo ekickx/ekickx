@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                    
-"There are 1,575 steps from the ground floor to the top of the Empire State building."
+<!--START_SECTION:debris-->                                                                                                                                     
+"Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
