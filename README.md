@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                     
-"Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  "
+<!--START_SECTION:debris-->                                                                                                                                      
+"Reindeer like to eat bananas."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
