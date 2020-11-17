@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                      
-"Reindeer like to eat bananas."
+<!--START_SECTION:debris-->                                                                                                                                       
+"You burn more calories sleeping than you do watching TV."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
