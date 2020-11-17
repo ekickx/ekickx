@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                       
-"You burn more calories sleeping than you do watching TV."
+<!--START_SECTION:debris-->                                                                                                                                        
+"The Black Death reduced the population of Europe by one third in the period from 1347 to 1351."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
