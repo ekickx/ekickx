@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                         
-"A jellyfish is 95 percent water!"
+<!--START_SECTION:debris-->                                                                                                                                          
+"Intelligent people have more zinc and copper in their hair."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
