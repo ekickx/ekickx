@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                        
-"The Black Death reduced the population of Europe by one third in the period from 1347 to 1351."
+<!--START_SECTION:debris-->                                                                                                                                         
+"A jellyfish is 95 percent water!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
