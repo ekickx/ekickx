@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                           
-"A pregnant goldfish is called a twit."
+<!--START_SECTION:debris-->                                                                                                                                            
+"The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
