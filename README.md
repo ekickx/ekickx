@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                              
-"Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  "
+<!--START_SECTION:debris-->                                                                                                                                               
+"Barbie`s measurements, if she were life-size, would be 39-29-33."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
