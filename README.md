@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                 
-"The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999."
+<!--START_SECTION:debris-->                                                                                                                                                  
+"If you went out into space, you would explode before you suffocated because there`s no air pressure."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
