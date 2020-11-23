@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                   
-"You burn more calories sleeping than you do watching TV."
+<!--START_SECTION:debris-->                                                                                                                                                    
+"Most toilets flush in E flat."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
