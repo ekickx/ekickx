@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                  
-"If you went out into space, you would explode before you suffocated because there`s no air pressure."
+<!--START_SECTION:debris-->                                                                                                                                                   
+"You burn more calories sleeping than you do watching TV."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
