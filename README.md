@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                     
-"A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway.""
+<!--START_SECTION:debris-->                                                                                                                                                      
+"In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
