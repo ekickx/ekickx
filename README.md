@@ -3,7 +3,6 @@
 <h3>
   <blockquote>
 <!--START_SECTION:debris-->                                                                                                                                                       
-"Average number of days a West German goes without washing his underwear: 7"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
