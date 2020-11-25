@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                      
-"In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played."
+<!--START_SECTION:debris-->                                                                                                                                                       
+"Average number of days a West German goes without washing his underwear: 7"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
