@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                        
-"It`s possible to lead a cow upstairs but not downstairs."
+<!--START_SECTION:debris-->                                                                                                                                                         
+"If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
