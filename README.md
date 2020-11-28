@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                           
-"PEZ candy even comes in a Coffee flavor."
+<!--START_SECTION:debris-->                                                                                                                                                            
+"Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
