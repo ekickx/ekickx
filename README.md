@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                            
-"Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt."
+<!--START_SECTION:debris-->                                                                                                                                                             
+"When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
