@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                             
-"When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city."
+<!--START_SECTION:debris-->                                                                                                                                                              
+"The word "samba" means "to rub navels together.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
