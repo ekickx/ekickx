@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                              
-"The word "samba" means "to rub navels together.""
+<!--START_SECTION:debris-->                                                                                                                                                               
+"To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
