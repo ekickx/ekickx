@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                   
-"John Lennon`s first girlfriend was named Thelma Pickles."
+<!--START_SECTION:debris-->                                                                                                                                                                    
+"The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
