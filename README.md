@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                      
-" was Harrison Ford`s idea so that he could take a bathroom break."
+<!--START_SECTION:debris-->                                                                                                                                                                       
+"1 in 8 Americans has worked at a McDonalds restaurant."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
