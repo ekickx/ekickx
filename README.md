@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                              
-"Daffy Duck`s middle name is "Dumas""
+<!--START_SECTION:debris-->                                                                                                                                                                               
+"Ants closely resemble human manners:  When they wake, they stretch  appear to yawn in a human manner before taking up the tasks of the day."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
