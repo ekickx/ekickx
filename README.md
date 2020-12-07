@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                             
-"Every year 11,000 Americans injure themselves while trying out bizarre sexual positions."
+<!--START_SECTION:debris-->                                                                                                                                                                              
+"Daffy Duck`s middle name is "Dumas""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
