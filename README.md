@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                               
-"Ants closely resemble human manners:  When they wake, they stretch  appear to yawn in a human manner before taking up the tasks of the day."
+<!--START_SECTION:debris-->                                                                                                                                                                                
+"John Lennon`s first girlfriend was named Thelma Pickles."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
