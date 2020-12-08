@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                
-"John Lennon`s first girlfriend was named Thelma Pickles."
+<!--START_SECTION:debris-->                                                                                                                                                                                 
+"The symbol on the "pound" key (#) is called an octothorpe..  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
