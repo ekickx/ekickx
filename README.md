@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                    
-"Only 6 people in the whole world have died from moshing."
+<!--START_SECTION:debris-->                                                                                                                                                                                     
+"Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
