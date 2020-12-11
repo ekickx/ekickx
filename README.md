@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                     
-"Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag."
+<!--START_SECTION:debris-->                                                                                                                                                                                      
+"There are 293 ways to make change for a dollar."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
