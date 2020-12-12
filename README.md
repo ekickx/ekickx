@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                       
-"Starfish haven`t got brains."
+<!--START_SECTION:debris-->                                                                                                                                                                                        
+"The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
