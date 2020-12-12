@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                        
-"The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                         
+"In the last 4000 years, no new animals have been domesticated."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
