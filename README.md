@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                           
-"Napoleon`s penis was sold to an American Urologist for $40,000."
+<!--START_SECTION:debris-->                                                                                                                                                                                            
+"The U.S. military operates 234 golf courses"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
