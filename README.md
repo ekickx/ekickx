@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                              
-"400-quarter pounders can be made from 1 cow."
+<!--START_SECTION:debris-->                                                                                                                                                                                               
+"All polar bears are left-handed."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
