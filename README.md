@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                             
-"Half of all Americans live within 50 miles of their birthplace."
+<!--START_SECTION:debris-->                                                                                                                                                                                              
+"400-quarter pounders can be made from 1 cow."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
