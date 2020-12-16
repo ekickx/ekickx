@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                
-"In most advertisements, including newspapers, the time displayed on a watch is 10:10."
+<!--START_SECTION:debris-->                                                                                                                                                                                                 
+"Worcestershire sauce in essentially an Anchovy Ketchup."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
