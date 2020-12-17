@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                  
-"The Black Widow spider eats her mate during or after sex."
+<!--START_SECTION:debris-->                                                                                                                                                                                                   
+"The word "samba" means "to rub navels together.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
