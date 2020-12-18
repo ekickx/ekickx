@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                   
-"The word "samba" means "to rub navels together.""
+<!--START_SECTION:debris-->                                                                                                                                                                                                    
+"Hong Kong holds the most Rolls Royce’s per capita."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
