@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                     
-"Recycling one glass jar, saves enough energy to watch T.V for 3 hours!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                      
+"The average person falls asleep in seven minutes."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
