@@ -2,7 +2,7 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                        
+<!--START_SECTION:debris-->                                                                                                                                                                                                         
 "Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world."
 <!--END_SECTION:debris-->
   </blockquote>
