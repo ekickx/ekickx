@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                       
-"There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous."
+<!--START_SECTION:debris-->                                                                                                                                                                                                        
+"Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
