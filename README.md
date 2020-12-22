@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                            
-"Sex burns 360 calories per hour."
+<!--START_SECTION:debris-->                                                                                                                                                                                                             
+"Worcestershire sauce in essentially an Anchovy Ketchup."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
