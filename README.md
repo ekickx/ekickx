@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                              
-"Right-handed people live, on average; nine years longer than left handed people."
+<!--START_SECTION:debris-->                                                                                                                                                                                                               
+"The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
