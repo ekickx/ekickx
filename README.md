@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                             
-"Worcestershire sauce in essentially an Anchovy Ketchup."
+<!--START_SECTION:debris-->                                                                                                                                                                                                              
+"Right-handed people live, on average; nine years longer than left handed people."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
