@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                  
-"The word "samba" means "to rub navels together.""
+<!--START_SECTION:debris-->                                                                                                                                                                                                                   
+"Ten percent of the Russian government`s income comes from the sale of vodka."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
