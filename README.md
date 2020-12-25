@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                 
-"In most advertisements, including newspapers, the time displayed on a watch is 10:10."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                  
+"The word "samba" means "to rub navels together.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
