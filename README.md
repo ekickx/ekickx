@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                     
-"If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                      
+"The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
