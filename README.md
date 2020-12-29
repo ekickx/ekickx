@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                         
-"Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                          
+"Shakespeare spelled his OWN name several different ways."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
