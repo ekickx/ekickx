@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                          
-"Shakespeare spelled his OWN name several different ways."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                           
+"Some lions mate over 50 times a day."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
