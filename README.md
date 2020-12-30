@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                           
-"Some lions mate over 50 times a day."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                            
+"Only one person in two billion will live to be 116 or older."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
