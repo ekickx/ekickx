@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                            
-"Only one person in two billion will live to be 116 or older."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                             
+"A snail can sleep for three years."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
