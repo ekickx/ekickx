@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                             
-"A snail can sleep for three years."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                              
+"In the average lifetime, a person will walk the equivalent of 5 times around the equator."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
