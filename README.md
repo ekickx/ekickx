@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                
-"The Minneapolis phone book has 21 pages of Andersons."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                 
+"There is approximately one chicken for every human being in the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
