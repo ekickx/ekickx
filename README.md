@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                 
-"There is approximately one chicken for every human being in the world."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                  
+"The dot over the letter `i` is called a tittle.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
