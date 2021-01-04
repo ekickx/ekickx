@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                     
-"The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                      
+"The average woman consumes 6 lbs of lipstick in her lifetime."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
