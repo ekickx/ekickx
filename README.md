@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                      
-"The average woman consumes 6 lbs of lipstick in her lifetime."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                       
+"The longest one-syllable word in the English language is "screeched.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
