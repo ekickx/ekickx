@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                       
-"The longest one-syllable word in the English language is "screeched.""
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                        
+"If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
