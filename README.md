@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                        
-"If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                         
+"There is approximately one chicken for every human being in the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
