@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                         
-"There is approximately one chicken for every human being in the world."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                          
+"The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
