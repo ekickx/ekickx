@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                              
-"Only one person in two billion will live to be 116 or older."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                               
+"The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
