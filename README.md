@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                
-"The average person spends about two years on the phone in a lifetime."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                 
+"The eyes of a donkey are positioned so that it can see all four feet at all times."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
