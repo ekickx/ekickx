@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                               
-"The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                
+"The average person spends about two years on the phone in a lifetime."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
