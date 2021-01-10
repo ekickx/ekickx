@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                 
-"The eyes of a donkey are positioned so that it can see all four feet at all times."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                  
+"A duck`s quack doesn`t echo, and no one knows why."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
