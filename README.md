@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                   
-"You were born with 300 bones, but by the time you are an adult you will only have 206."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                    
+"Half of all Americans live within 50 miles of their birthplace."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
