@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                    
-"Half of all Americans live within 50 miles of their birthplace."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                     
+"If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
