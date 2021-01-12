@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                      
-"The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                       
+"The storage capacity of human brain exceeds 4 Terabytes."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
