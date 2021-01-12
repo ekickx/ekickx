@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                     
-"If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                      
+"The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
