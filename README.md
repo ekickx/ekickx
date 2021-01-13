@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                       
-"The storage capacity of human brain exceeds 4 Terabytes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                        
+"One third of all cancers are sun related."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
