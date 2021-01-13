@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                        
-"One third of all cancers are sun related."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                         
+"A goldfish has a memory span of three seconds.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
