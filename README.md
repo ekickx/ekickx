@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                          
-"Average number of people airborne over the US any given hour: 61,000."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                           
+"A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
