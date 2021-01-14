@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                         
-"A goldfish has a memory span of three seconds.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                          
+"Average number of people airborne over the US any given hour: 61,000."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
