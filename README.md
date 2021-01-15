@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                           
-"A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                            
+"Over 60% of all those who marry get divorced."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
