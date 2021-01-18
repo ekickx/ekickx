@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                  
-"In every episode of Seinfeld there is a Superman somewhere."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                   
+""I am." is the shortest complete sentence in the English language."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
