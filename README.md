@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                          
-"It is illegal to hunt camels in the state of Arizona."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                           
+"3.6 cans of Spam are consumed each second."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
