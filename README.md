@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                            
-"Cats have over one hundred vocal sounds, while dogs only have about ten."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                             
+"Venus is the only planet that rotates clockwise."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
