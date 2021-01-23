@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                           
-"3.6 cans of Spam are consumed each second."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                            
+"Cats have over one hundred vocal sounds, while dogs only have about ten."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
