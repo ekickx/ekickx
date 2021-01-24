@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                             
-"Venus is the only planet that rotates clockwise."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                              
+"3.6 cans of Spam are consumed each second."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
