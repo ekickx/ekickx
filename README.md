@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                               
-"The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                
+"The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
