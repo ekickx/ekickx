@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                 
-"All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                  
+"Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
