@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                  
-"Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                   
+"Barbie`s full name is Barbara Millicent Roberts."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
