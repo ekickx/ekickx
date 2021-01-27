@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                   
-"Barbie`s full name is Barbara Millicent Roberts."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                    
+"In England, the Speaker of the House is not allowed to speak."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
