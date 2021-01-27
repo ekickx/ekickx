@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                    
-"In England, the Speaker of the House is not allowed to speak."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                     
+"Length of beard an average man would grow if he never shaved 27.5 feet"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
