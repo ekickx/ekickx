@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                     
-"Length of beard an average man would grow if he never shaved 27.5 feet"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                      
+"The San Francisco Cable cars are the only mobile National Monuments."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
