@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                         
-"In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                          
+"Mount Olympus Mons on Mars is three times the size of Mount Everest."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
