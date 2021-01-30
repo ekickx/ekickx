@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                          
-"Mount Olympus Mons on Mars is three times the size of Mount Everest."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                           
+"In the 1980`s American migraines increased by 60%."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
