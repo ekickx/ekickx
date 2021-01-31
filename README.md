@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                           
-"In the 1980`s American migraines increased by 60%."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                            
+"The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
