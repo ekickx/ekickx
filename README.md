@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                            
-"The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                             
+"A snail can sleep for three years."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
