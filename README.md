@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                
-"A crocodile cannot stick its tongue out."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                 
+"One quarter of the bones in your body are in your feet."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
