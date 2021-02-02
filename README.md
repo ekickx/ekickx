@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                               
-"Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                
+"A crocodile cannot stick its tongue out."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
