@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                 
-"One quarter of the bones in your body are in your feet."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                  
+"Ten percent of the Russian government`s income comes from the sale of vodka."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
