@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                   
-"Dr. Jack Kevorkian first patient has Alzheimer`s disease."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                    
+"Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
