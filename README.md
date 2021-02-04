@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                    
-"Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                     
+"Meteorologists claim they`re right 85% of the time (think about that one!)"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
