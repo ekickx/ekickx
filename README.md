@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                      
-"Eating the heart of a male Partridge was the cure for impotence in ancient Babylon."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                       
+"10,000 Dutch cows pass through the Amsterdam airport each year."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
