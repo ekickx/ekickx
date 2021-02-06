@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                       
-"10,000 Dutch cows pass through the Amsterdam airport each year."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                        
+"Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
