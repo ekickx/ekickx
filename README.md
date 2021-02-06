@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                        
-"Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                         
+"Al Capone`s business card said he was a used furniture dealer."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
