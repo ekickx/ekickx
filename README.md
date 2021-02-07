@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                         
-"Al Capone`s business card said he was a used furniture dealer."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                          
+"Two-thirds of the world`s eggplant is grown in New Jersey.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
