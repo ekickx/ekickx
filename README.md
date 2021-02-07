@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                          
-"Two-thirds of the world`s eggplant is grown in New Jersey.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                           
+"If Texas were a country, its GNP would be the fifth largest of any country in the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
