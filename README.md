@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                              
-"Worcestershire sauce in essentially an Anchovy Ketchup."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                               
+"The highest per capita Jell-O comsumption in the US is Des Moines."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
