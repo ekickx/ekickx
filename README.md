@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                             
-"Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                              
+"Worcestershire sauce in essentially an Anchovy Ketchup."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
