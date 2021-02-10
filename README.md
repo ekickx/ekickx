@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                               
-"The highest per capita Jell-O comsumption in the US is Des Moines."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                
+"Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
