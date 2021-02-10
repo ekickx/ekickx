@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                
-"Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                 
+"Telly Savalas and Louis Armstrong died on their birthdays.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
