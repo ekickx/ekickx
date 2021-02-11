@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                  
-"When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                   
+"Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
