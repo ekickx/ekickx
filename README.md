@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                   
-"Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                    
+"The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
