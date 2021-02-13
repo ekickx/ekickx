@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                      
-"Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                       
+"The Human eyes never grow, but nose and ears never stop growing."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
