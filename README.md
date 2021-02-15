@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                          
-"One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                           
+"Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
