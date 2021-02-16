@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                           
-"Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                            
+"In the 1980`s American migraines increased by 60%."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
