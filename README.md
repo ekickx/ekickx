@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                              
-"Winston Churchill was born in a ladies` room during a dance."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                               
+"The only real person to ever to appear on a pez dispenser was Betsy Ross."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
