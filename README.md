@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                               
-"The only real person to ever to appear on a pez dispenser was Betsy Ross."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                
+"It has NEVER rained in Calama, a town in the Atacama Desert of Chile."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
