@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                
-"It has NEVER rained in Calama, a town in the Atacama Desert of Chile."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                 
+"Jupiter is bigger than all the other planets in our solar system combined."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
