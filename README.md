@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                 
-"Jupiter is bigger than all the other planets in our solar system combined."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                  
+"The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
