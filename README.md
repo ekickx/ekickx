@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                    
-"Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                     
+"The average person spends 6 months of their life sitting at red lights."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
