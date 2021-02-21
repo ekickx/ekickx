@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                      
-"If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                       
+"Donald Duck comics were banned from Finland because he doesn`t wear pants!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
