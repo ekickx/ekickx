@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                             
-"400-quarter pounders can be made from 1 cow."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                              
+"Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
