@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                               
-"The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of "ough" in the English Language."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                
+"2,000 pounds of space dust and other space debris fall on the Earth every day."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
