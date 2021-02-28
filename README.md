@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                    
-"In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                     
+"Weatherman Willard Scott was the first original Ronald McDonald."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
