@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                     
-"Weatherman Willard Scott was the first original Ronald McDonald."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                      
+"Bats always turn left when exiting a cave"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
