@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                       
-"A snail can sleep for three years."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                        
+"Most Egyptians died by the time they were 30 about 300 years ago,"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
