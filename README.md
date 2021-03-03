@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                         
-"If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                          
+"In The Empire Strikes Back there is a potato hidden in the asteroid field"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
