@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                          
-"In The Empire Strikes Back there is a potato hidden in the asteroid field"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                           
+"The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
