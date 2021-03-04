@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                           
-"The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                            
+"Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
