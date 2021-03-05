@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                            
-"Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                             
+"Thirty-five percent of people who use personal ads for dating are already married."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
