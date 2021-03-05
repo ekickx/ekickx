@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                             
-"Thirty-five percent of people who use personal ads for dating are already married."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                              
+"Mr. Rogers is an ordained minister."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
