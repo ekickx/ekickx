@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                               
-"Rhode Island is the only state which the hammer throw is a legal high school sport."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                
+"Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
