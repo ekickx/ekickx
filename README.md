@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                     
-"It is illegal to eat oranges while bathing in California."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                      
+"Ingrown toenails are hereditary.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
