@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                    
-"Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                     
+"It is illegal to eat oranges while bathing in California."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
