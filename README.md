@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                       
-"More people are killed annually by donkeys than airplane crashes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                        
+"Right-handed people live, on average; nine years longer than left handed people."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
