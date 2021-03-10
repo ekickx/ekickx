@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                      
-"Ingrown toenails are hereditary.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                       
+"More people are killed annually by donkeys than airplane crashes."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
