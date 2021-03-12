@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                           
-"It has been estimated that humans use only 10% of their brain."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                            
+"A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
