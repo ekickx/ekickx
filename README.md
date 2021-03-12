@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                          
-"The most common street name in the U.S. is Second Street."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                           
+"It has been estimated that humans use only 10% of their brain."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
