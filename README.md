@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                             
-"A jellyfish is 95 percent water!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                              
+"To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
