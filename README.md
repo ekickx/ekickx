@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                              
-"To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                               
+"In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
