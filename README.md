@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                               
-"In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                
+"A duck`s quack doesn`t echo, and no one knows why."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
