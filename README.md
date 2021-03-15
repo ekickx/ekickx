@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                 
-"In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                  
+"To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
