@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                  
-"To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                   
+"Maine is the only state whose name is just one syllable."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
