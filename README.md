@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                     
-"The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                      
+"The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
