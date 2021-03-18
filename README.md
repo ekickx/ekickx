@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                       
-"In the average lifetime, a person will walk the equivalent of 5 times around the equator."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                        
+"The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
