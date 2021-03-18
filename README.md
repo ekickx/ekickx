@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                      
-"The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                       
+"In the average lifetime, a person will walk the equivalent of 5 times around the equator."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
