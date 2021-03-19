@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                         
-"The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                          
+"The average person`s left hand does 56% of the typing."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
