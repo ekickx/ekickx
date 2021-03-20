@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                          
-"The average person`s left hand does 56% of the typing."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                           
+"Owls are one of the only birds who can see the color blue!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
