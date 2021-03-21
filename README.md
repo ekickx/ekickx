@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                             
-"Barbie`s full name is Barbara Millicent Roberts."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                              
+"In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
