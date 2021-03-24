@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                   
-"The dot over the letter `i` is called a tittle.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                    
+"Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
