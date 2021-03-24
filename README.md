@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                  
-"In the Philippine jungle, the yo-yo was first used as a weapon."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                   
+"The dot over the letter `i` is called a tittle.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
