@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                    
-"Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                     
+"The giant squid has the largest eyes in the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
