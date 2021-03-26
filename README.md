@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                      
-"A dragonfly has a lifespan of 24 hours."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                       
+"In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
