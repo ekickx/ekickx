@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                       
-"In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                        
+"NBA superstar Michael Jordan was originally cut from his high school basketball team."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
