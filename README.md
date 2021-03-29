@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                             
-"There`s a systematic lull in conversation every 7 minutes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                              
+"Half of all Americans live within 50 miles of their birthplace."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
