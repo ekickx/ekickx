@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                            
-"There are 293 ways to make change for a dollar."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                             
+"There`s a systematic lull in conversation every 7 minutes."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
