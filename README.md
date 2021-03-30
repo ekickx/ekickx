@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                               
-"In the White House, there are 13,092 knives, forks and spoons!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                
+"%60 of all people using the Internet, use it for pornography."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
