@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                              
-"Half of all Americans live within 50 miles of their birthplace."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                               
+"In the White House, there are 13,092 knives, forks and spoons!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
