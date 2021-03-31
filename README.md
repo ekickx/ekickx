@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                 
-"You burn more calories sleeping than you do watching TV."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                  
+"If one spells out numbers, they would have to count to One Thousand before coming across the letter "A"."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
