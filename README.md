@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                  
-"If one spells out numbers, they would have to count to One Thousand before coming across the letter "A"."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                   
+"Over 60% of all those who marry get divorced."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
