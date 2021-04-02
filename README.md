@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                    
-"The only real person to ever to appear on a pez dispenser was Betsy Ross."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                     
+"The Minneapolis phone book has 21 pages of Andersons."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
