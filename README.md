@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                      
-"A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:  `Red rum, sir, is murder.` `Ma is as selfless as I am.` `Nurse, I spy gypsies. Run!`  `A man, a plan, a canal - Panama.` `He lived as a devil, eh?`"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                       
+"A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
