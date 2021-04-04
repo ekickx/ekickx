@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                         
-"Babies are most likely to be born on Tuesdays."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                          
+"Each month, there is at least one report of UFOs from each province of Canada."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
