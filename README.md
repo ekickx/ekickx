@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                           
-"A pregnant goldfish is called a twit."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                            
+"Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
