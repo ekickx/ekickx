@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                          
-"Each month, there is at least one report of UFOs from each province of Canada."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                           
+"A pregnant goldfish is called a twit."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
