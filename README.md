@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                             
-"More bullets were fired in `Starship Troopers` than any other movie ever made."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                              
+"The pupils of a goat`s eyes are square."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
