@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                            
-"Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                             
+"More bullets were fired in `Starship Troopers` than any other movie ever made."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
