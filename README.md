@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
