@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                
-"Only 6 people in the whole world have died from moshing."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
