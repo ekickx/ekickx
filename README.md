@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"Between 2 and 3 jockeys are killed each year in horse racing."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"Daffy Duck`s middle name is "Dumas""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
