@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"Between 2 and 3 jockeys are killed each year in horse racing."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
