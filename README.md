@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"South Dakota is the only U.S state which shares no letters with the name of it`s capital"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"Half of all Americans live within 50 miles of their birthplace."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
