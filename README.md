@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"A goldfish has a memory span of three seconds.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"The plastic things on the end of shoelaces are called aglets."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
