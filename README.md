@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"Half of all Americans live within 50 miles of their birthplace."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"A goldfish has a memory span of three seconds.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
