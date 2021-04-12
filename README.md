@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"The plastic things on the end of shoelaces are called aglets."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
