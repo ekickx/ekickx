@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"Over 1000 birds a year die from smashing into windows!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
