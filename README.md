@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"Over 1000 birds a year die from smashing into windows!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1"encased in the "shield" and a spider hidden in the front upper right-hand corner."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
