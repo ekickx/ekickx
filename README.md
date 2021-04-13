@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1"encased in the "shield" and a spider hidden in the front upper right-hand corner."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"Koala is Aboriginal for "no drink"."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
