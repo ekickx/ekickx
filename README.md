@@ -3,7 +3,6 @@
 <h3>
   <blockquote>
 <!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"Koala is Aboriginal for "no drink"."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
