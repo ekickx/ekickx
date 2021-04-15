@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"Tigers not only have striped fur, they have striped skin!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"Right-handed people live, on average; nine years longer than left handed people."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
