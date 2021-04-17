@@ -2,7 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
