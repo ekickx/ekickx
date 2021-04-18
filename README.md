@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-""Underground" is the only word in the English language that begins and ends with the letters "und""
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"Winston Churchill was born in a ladies` room during a dance."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
