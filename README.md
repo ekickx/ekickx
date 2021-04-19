@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"Honey is the only food which does not spoil."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"Honking of car horns for a couple that just got married is an old superstition to insure great sex."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
