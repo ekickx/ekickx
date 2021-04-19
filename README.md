@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"Honey is the only food which does not spoil."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
