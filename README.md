@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"There are 336 dimples on a regulation golf ball."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"Poland is the "stolen car capital of the world"."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
