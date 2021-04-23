@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"Some lions mate over 50 times a day."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"Honeybees have a type of hair on their eyes!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
