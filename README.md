@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"Poland is the "stolen car capital of the world"."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"Some lions mate over 50 times a day."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
