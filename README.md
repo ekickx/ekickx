@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"PEZ candy even comes in a Coffee flavor."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"The longest recorded flight of a chicken is thirteen seconds."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
