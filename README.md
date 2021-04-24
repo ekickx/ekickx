@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"Honeybees have a type of hair on their eyes!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"PEZ candy even comes in a Coffee flavor."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
