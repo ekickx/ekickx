@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"Golf courses cover 4% of North America."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"Sex burns 360 calories per hour."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
