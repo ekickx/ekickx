@@ -2,7 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"Golf courses cover 4% of North America."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
