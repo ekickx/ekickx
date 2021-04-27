@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"Bats always turn left when exiting a cave"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
