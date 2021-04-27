@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"Sex burns 360 calories per hour."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"Bats always turn left when exiting a cave"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
