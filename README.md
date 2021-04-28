@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"It has been estimated that humans use only 10% of their brain."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
