@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"It has been estimated that humans use only 10% of their brain."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
