@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"Some lions mate over 50 times a day."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
