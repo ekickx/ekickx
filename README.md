@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"Van Gogh only sold one painting when he was alive."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"Americans travel 1,144,721,000 miles by air every day"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
