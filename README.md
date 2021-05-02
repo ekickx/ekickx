@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"Owls are one of the only birds who can see the color blue!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
