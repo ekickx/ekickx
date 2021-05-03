@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"Peanuts are one of the ingredients of dynamite."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"The human heart creates enough pressure to squirt blood 30ft."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
