@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"The human heart creates enough pressure to squirt blood 30ft."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"Daffy Duck`s middle name is "Dumas""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
