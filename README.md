@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"Meteorologists claim they`re right 85% of the time (think about that one!)"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"Weatherman Willard Scott was the first original Ronald McDonald."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
