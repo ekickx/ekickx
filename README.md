@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"Between 25% and 33% of the population sneeze when exposed to light."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"Worcestershire sauce in essentially an Anchovy Ketchup."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
