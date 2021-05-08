@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"Worcestershire sauce in essentially an Anchovy Ketchup."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"10,000 Dutch cows pass through the Amsterdam airport each year."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
