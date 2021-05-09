@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"Most American car horns honk in the key of F."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"In most advertisements, including newspapers, the time displayed on a watch is 10:10."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
