@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"A dragonfly has a lifespan of 24 hours."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
