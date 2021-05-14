@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"Mel Blanc (the voice of Bugs Bunny) was allergic to carrots."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
