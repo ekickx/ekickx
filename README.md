@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"A dragonfly has a lifespan of 24 hours."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"Mel Blanc (the voice of Bugs Bunny) was allergic to carrots."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
