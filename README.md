@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
