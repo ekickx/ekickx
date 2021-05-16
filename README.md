@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"In the Philippine jungle, the yo-yo was first used as a weapon."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
