@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"There are more plastic flamingos in the U.S that there are real ones."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"A pig`s orgasm lasts for 30 minutes."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
