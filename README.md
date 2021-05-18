@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"In medieval France, unfaithful wives were made to chase a chicken through town naked."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"There are more plastic flamingos in the U.S that there are real ones."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
