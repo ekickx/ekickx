@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"Babies are most likely to be born on Tuesdays."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"The longest word comprised of one row on the keyboard is: TYPEWRITER"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
