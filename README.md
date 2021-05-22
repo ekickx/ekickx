@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-""I am." is the shortest complete sentence in the English language."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"The sweat drops drawn in cartoon comic strips are called pleuts."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
