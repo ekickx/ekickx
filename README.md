@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"More Monopoly money is printed in a year, than real money throughout the world."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"Dr. Jack Kevorkian first patient has Alzheimer`s disease."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
