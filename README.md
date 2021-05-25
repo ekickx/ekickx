@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"10,000 Dutch cows pass through the Amsterdam airport each year."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"A shark is the only fish that can blink with both eyes."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
