@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"A shark is the only fish that can blink with both eyes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"Ingrown toenails are hereditary.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
