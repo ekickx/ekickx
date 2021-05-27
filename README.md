@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"Bats always turn left when exiting a cave"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"The ant always falls over on its right side when intoxicated."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
