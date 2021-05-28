@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
