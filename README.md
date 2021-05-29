@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"There are 293 ways to make change for a dollar."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
