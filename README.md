@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"There are 293 ways to make change for a dollar."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"All US Presidents have worn glasses; some just didn`t like being seen wearing them in public."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
