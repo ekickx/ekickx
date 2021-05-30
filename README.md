@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"Because of the rotation of the earth, an object can be thrown farther if it is thrown west."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"Owls are one of the only birds who can see the color blue!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
