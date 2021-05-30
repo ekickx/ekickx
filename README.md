@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"All US Presidents have worn glasses; some just didn`t like being seen wearing them in public."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"Because of the rotation of the earth, an object can be thrown farther if it is thrown west."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
