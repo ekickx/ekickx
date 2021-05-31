@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"Owls are one of the only birds who can see the color blue!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
