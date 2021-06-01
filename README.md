@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"Poland is the "stolen car capital of the world"."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"Camels have three eyelids to protect themselves from blowing sand!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
