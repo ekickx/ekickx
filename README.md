@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"Camels have three eyelids to protect themselves from blowing sand!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"The top 3 health-related searches on the Internet are (in this order): Depression, Allergies,  Cancer."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
