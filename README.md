@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"The top 3 health-related searches on the Internet are (in this order): Depression, Allergies,  Cancer."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"1 in 8 Americans has worked at a McDonalds restaurant."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
