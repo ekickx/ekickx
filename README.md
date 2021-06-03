@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"1 in 8 Americans has worked at a McDonalds restaurant."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"On average, Americans eat 18 acres of pizza everyday."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
