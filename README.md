@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"On average, Americans eat 18 acres of pizza everyday."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
