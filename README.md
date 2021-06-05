@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
