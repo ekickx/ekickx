@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"There are 269 steps to the top of the Leaning Tower of Pisa"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"The average person spends about two years on the phone in a lifetime."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
