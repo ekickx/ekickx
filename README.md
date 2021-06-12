@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"The average person spends 12 weeks a year `looking for things`."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
