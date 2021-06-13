@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"Most American car horns honk in the key of F."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"During a severe windstorm or rainstorm the Empire State Building sways several feet to either side."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
