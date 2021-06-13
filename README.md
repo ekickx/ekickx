@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"The average person spends 12 weeks a year `looking for things`."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"Most American car horns honk in the key of F."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
