@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"During a severe windstorm or rainstorm the Empire State Building sways several feet to either side."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"The only 15-letter word that can be spelled without repeating a letter is uncopyrightable."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
