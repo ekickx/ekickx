@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"More Monopoly money is printed in a year, than real money throughout the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
