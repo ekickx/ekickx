@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"The praying mantis is the only insect that can turn its head"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
