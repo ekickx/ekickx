@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"The highest per capita Jell-O comsumption in the US is Des Moines."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"The praying mantis is the only insect that can turn its head"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
