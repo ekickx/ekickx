@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"Dueling is legal in Paraguay as long as both parties are registered blood donors."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
