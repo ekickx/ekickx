@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"Dueling is legal in Paraguay as long as both parties are registered blood donors."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
