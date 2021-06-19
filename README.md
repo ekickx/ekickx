@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"PEZ candy even comes in a Coffee flavor."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
