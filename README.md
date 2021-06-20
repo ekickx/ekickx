@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"February 1865 is the only month in recorded history not to have a full moon."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"It has NEVER rained in Calama, a town in the Atacama Desert of Chile."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
