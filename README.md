@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"It has NEVER rained in Calama, a town in the Atacama Desert of Chile."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
