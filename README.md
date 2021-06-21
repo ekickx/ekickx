@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
