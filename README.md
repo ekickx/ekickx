@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"A cat has 32 muscles in each ear."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
