@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"A cat has 32 muscles in each ear."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
