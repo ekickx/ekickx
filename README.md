@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"There are 336 dimples on a regulation golf ball."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
