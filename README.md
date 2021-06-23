@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"There are 336 dimples on a regulation golf ball."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
