@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
