@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
