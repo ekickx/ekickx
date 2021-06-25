@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"Bats always turn left when exiting a cave"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
