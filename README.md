@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"Over 60% of all those who marry get divorced."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"Elephants are the only animals that can`t jump."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
