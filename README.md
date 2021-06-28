@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"Elephants are the only animals that can`t jump."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"The Black Widow spider eats her mate during or after sex."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
