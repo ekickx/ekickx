@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"The Black Widow spider eats her mate during or after sex."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"The three most recognized Western names in China are Jesus Christ, Richard Nixon,  Elvis Presley."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
