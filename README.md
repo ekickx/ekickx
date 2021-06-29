@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"The three most recognized Western names in China are Jesus Christ, Richard Nixon,  Elvis Presley."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"Donald Duck comics were banned from Finland because he doesn`t wear pants!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
