@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"Donald Duck comics were banned from Finland because he doesn`t wear pants!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"It takes about 142.18 licks to reach the center of a Tootsie pop."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
