@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"It takes about 142.18 licks to reach the center of a Tootsie pop."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"The katydid bug hears through holes in its hind legs!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
