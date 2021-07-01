@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"On the ground, a group of geese is a gaggle, in the sky it is a skein."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
