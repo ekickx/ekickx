@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"On the ground, a group of geese is a gaggle, in the sky it is a skein."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"Mount Olympus Mons on Mars is three times the size of Mount Everest."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
