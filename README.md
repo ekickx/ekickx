@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"Two-thirds of the world`s eggplant is grown in New Jersey.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"The average person spends about two years on the phone in a lifetime."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
