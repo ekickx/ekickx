@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"The average person spends about two years on the phone in a lifetime."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"There were always 56 curls in Shirley Temple`s hair."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
