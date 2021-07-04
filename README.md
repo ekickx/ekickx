@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"There were always 56 curls in Shirley Temple`s hair."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
