@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"Eating the heart of a male Partridge was the cure for impotence in ancient Babylon."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
