@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"`Stewardesses` is the longest word that is typed with only the left hand."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"The plastic things on the end of shoelaces are called aglets."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
