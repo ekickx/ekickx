@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"The average person will accidentally eat just under a pound of insects every year."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"`Stewardesses` is the longest word that is typed with only the left hand."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
