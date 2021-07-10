@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"Months that begin on a Sunday will always have a `Friday the 13th`."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"Conception occurs most in the month of December."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
