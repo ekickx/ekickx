@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"The plastic things on the end of shoelaces are called aglets."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"Months that begin on a Sunday will always have a `Friday the 13th`."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
