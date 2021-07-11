@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"More people are killed annually by donkeys than airplane crashes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
