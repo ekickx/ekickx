@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"The eyes of a donkey are positioned so that it can see all four feet at all times."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
