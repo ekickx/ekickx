@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"The eyes of a donkey are positioned so that it can see all four feet at all times."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
