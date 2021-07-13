@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"It has been estimated that humans use only 10% of their brain."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
