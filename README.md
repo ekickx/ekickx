@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
