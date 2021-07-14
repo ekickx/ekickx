@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"Ninety percent of all species that have become extinct have been birds."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
