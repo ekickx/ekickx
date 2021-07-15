@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"You can sail all the way around the world at latitude 60 degrees south."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
