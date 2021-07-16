@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"You can sail all the way around the world at latitude 60 degrees south."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"Van Gogh only sold one painting when he was alive."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
