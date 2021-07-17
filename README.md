@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"The average person will accidentally eat just under a pound of insects every year."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
