@@ -3,7 +3,6 @@
 <h3>
   <blockquote>
 <!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"Conception occurs most in the month of December."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
