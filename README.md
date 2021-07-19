@@ -2,7 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
