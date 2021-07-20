@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"A jellyfish is 95 percent water!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"The Minneapolis phone book has 21 pages of Andersons."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
