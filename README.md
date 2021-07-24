@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"The average American looks at eight houses before buying one."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"The name of the girl on the statue of liberty is Mother of Exiles."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
