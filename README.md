@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"The name of the girl on the statue of liberty is Mother of Exiles."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
