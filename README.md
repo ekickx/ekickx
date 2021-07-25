@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead.""
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"The plastic things on the end of shoelaces are called aglets."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
