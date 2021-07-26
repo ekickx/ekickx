@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"The plastic things on the end of shoelaces are called aglets."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"A dime has 118 ridges around the edge."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
