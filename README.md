@@ -3,7 +3,6 @@
 <h3>
   <blockquote>
 <!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"A dime has 118 ridges around the edge."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
