@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"There is approximately one chicken for every human being in the world."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"Canada makes up 6.67 percent of the Earth`s land area"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
