@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"Tehran is the most expensive city on earth."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"In the White House, there are 13,092 knives, forks and spoons!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
