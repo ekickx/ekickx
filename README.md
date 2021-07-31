@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"In The Empire Strikes Back there is a potato hidden in the asteroid field"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"Intelligent people have more zinc and copper in their hair."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
