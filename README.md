@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"Intelligent people have more zinc and copper in their hair."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
