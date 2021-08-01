@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"Tehran is the most expensive city on earth."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
