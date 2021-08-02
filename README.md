@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"Humans are the only primates that don`t have pigment in the palms of their hands."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
