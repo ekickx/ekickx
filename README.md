@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"The dot over the letter `i` is called a tittle.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
