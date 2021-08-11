@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"Every year 11,000 Americans injure themselves while trying out bizarre sexual positions."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"In medieval France, unfaithful wives were made to chase a chicken through town naked."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
