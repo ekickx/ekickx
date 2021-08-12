@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"In medieval France, unfaithful wives were made to chase a chicken through town naked."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"Pearls melt in vinegar."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
