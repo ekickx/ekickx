@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"PEZ candy even comes in a Coffee flavor."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
