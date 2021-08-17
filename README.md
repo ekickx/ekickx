@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"PEZ candy even comes in a Coffee flavor."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"The world record for spitting a watermelon seed is 65 feet 4 inches."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
