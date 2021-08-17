@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"The world record for spitting a watermelon seed is 65 feet 4 inches."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"Winston Churchill was born in a ladies` room during a dance."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
