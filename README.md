@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"A giraffe can go without water longer than a camel."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"There are 269 steps to the top of the Leaning Tower of Pisa"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
