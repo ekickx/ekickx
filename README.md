@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"Winston Churchill was born in a ladies` room during a dance."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"A giraffe can go without water longer than a camel."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
