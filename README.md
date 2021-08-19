@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"There are 269 steps to the top of the Leaning Tower of Pisa"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"2,000 pounds of space dust and other space debris fall on the Earth every day."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
