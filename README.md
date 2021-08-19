@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"2,000 pounds of space dust and other space debris fall on the Earth every day."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"The praying mantis is the only insect that can turn its head"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
