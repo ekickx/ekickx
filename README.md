@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"In the average lifetime, a person will walk the equivalent of 5 times around the equator."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"On average, Americans` favorite smell is banana."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
