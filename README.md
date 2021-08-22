@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"The sperm of a mouse is actually longer than the sperm of an elephant."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"In the average lifetime, a person will walk the equivalent of 5 times around the equator."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
