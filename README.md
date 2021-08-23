@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"Walt Disney was afraid of mice."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
