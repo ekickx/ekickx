@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"When a Hawaiian woman wears a flower over her left ear, it means that she is not available."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"Thirty-five percent of people who use personal ads for dating are already married."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
