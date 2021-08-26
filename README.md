@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
