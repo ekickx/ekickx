@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"Ingrown toenails are hereditary.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
