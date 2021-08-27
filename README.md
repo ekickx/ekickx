@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"The katydid bug hears through holes in its hind legs!"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"Humans are the only primates that don`t have pigment in the palms of their hands."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
