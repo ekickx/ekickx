@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"Humans are the only primates that don`t have pigment in the palms of their hands."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"Spain leads the world in cork production"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
