@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"A dragonfly has a lifespan of 24 hours."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
