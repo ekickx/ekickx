@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"Barbie`s full name is Barbara Millicent Roberts."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"February 1865 is the only month in recorded history not to have a full moon."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
