@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"The HyperMart outside of Garland Texas has 58 check-outs."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"Barbie`s measurements, if she were life-size, would be 39-29-33."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
