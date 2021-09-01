@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"Barbie`s measurements, if she were life-size, would be 39-29-33."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"Right-handed people live, on average; nine years longer than left handed people."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
