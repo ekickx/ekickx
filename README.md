@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"Right-handed people live, on average; nine years longer than left handed people."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
