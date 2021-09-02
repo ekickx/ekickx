@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"In the 1980`s American migraines increased by 60%."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
