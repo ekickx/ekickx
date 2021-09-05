@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"The longest recorded flight of a chicken is thirteen seconds."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"It`s possible to lead a cow upstairs but not downstairs."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
