@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"It`s possible to lead a cow upstairs but not downstairs."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"Ninety percent of all species that have become extinct have been birds."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
