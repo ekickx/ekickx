@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"In 1980, a Las Vegas hospital suspended workers for betting on when patients would die."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
