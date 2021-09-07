@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"In 1980, a Las Vegas hospital suspended workers for betting on when patients would die."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
