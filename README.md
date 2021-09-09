@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"Pearls melt in vinegar."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
