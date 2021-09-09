@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"All polar bears are left-handed."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
