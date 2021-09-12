@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"The first owner of the Marlboro company died of lung cancer."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"Al Capone`s business card said he was a used furniture dealer."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
