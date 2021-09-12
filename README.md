@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"It takes about 142.18 licks to reach the center of a Tootsie pop."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"The first owner of the Marlboro company died of lung cancer."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
