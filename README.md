@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"Simplistic passwords contribute to over 80% of all computer password break-ins."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"111,111,111 x 111,111,111 = 12,345,678,987,654,321"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
