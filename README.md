@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"111,111,111 x 111,111,111 = 12,345,678,987,654,321"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"If one spells out numbers, they would have to count to One Thousand before coming across the letter "A"."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
