@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
