@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
