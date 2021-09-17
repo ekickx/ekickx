@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
