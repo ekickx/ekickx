@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"Months that begin on a Sunday will always have a `Friday the 13th`."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
