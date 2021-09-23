@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"The average person falls asleep in seven minutes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"The first contraceptive was crocodile dung used by the ancient Egyptians."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
