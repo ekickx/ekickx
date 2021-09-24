@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"The katydid bug hears through holes in its hind legs!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
