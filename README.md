@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"The first contraceptive was crocodile dung used by the ancient Egyptians."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
