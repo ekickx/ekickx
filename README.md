@@ -3,7 +3,6 @@
 <h3>
   <blockquote>
 <!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"A piece of paper can be folded no more then 9 times."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
