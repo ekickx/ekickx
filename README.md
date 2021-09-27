@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"Venus is the only planet that rotates clockwise."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
