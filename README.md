@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"Napoleon`s penis was sold to an American Urologist for $40,000."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
