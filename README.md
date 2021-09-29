@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
