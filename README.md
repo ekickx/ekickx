@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"The top 3 health-related searches on the Internet are (in this order): Depression, Allergies,  Cancer."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
