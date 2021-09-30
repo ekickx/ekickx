@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"The pupils of a goat`s eyes are square."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
