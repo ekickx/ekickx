@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"Porcupines can float in water."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
