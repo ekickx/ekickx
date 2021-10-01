@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
