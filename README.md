@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"Porcupines can float in water."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
