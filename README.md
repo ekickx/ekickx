@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
