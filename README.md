@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"It`s possible to lead a cow upstairs but not downstairs."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
