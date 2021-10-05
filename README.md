@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"More Monopoly money is printed in a year, than real money throughout the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
