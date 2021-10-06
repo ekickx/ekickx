@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
