@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"Blueberry Jelly Bellies were created especially for Ronald Reagan."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
