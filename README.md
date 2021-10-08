@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"Most lipstick contains fish scales!"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
