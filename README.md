@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"If the population of China walked past you in single file, the line would never end because of the rate of reproduction."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
