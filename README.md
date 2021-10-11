@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"You burn more calories sleeping than you do watching TV."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
