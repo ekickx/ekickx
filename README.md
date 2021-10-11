@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"On average, people fear spiders more than they do death."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
