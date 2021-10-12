@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"166,875,000,000 pieces of mail are delivered each year in the US"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
