@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"Winston Churchill was born in a ladies` room during a dance."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
