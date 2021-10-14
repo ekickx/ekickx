@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"Non-dairy creamer is flammable."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
