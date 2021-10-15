@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"Daffy Duck`s middle name is "Dumas""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
