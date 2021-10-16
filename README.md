@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"The average American butt is 14.9 inches long."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
