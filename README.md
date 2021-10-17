@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-"Iceland consumes more Coca-Cola per capita than any other nation."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+"Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
