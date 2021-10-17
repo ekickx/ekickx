@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"Iceland consumes more Coca-Cola per capita than any other nation."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
