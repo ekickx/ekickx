@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
