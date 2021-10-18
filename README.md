@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"Canada makes up 6.67 percent of the Earth`s land area"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
