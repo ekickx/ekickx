@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"Canada makes up 6.67 percent of the Earth`s land area"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"Donald Duck`s middle name is Fauntleroy.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
