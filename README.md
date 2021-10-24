@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"60% of electrocutions occur while talking on the telephone during a thunderstorm."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"The word "samba" means "to rub navels together.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
