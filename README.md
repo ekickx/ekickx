@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"Almonds are a member of the peach family."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"In 1980, a Las Vegas hospital suspended workers for betting on when patients would die."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
