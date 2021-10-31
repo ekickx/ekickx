@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"In 1980, a Las Vegas hospital suspended workers for betting on when patients would die."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"The average lifespan of an eyelash is five months."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
