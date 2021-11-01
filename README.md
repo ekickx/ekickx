@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-"The average lifespan of an eyelash is five months."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+"Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
