@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-"The Vatican city registered 0 births in 1983"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+"Dr. Jack Kevorkian first patient has Alzheimer`s disease."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
