@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"Dr. Jack Kevorkian first patient has Alzheimer`s disease."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"There are more psychoanalysts per capita in Buenos Aires than any other place in the world."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
