@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"1 in every 4 Americans has appeared someway or another on television."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"Thirty-five percent of people who use personal ads for dating are already married."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
