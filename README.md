@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"There are more psychoanalysts per capita in Buenos Aires than any other place in the world."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"1 in every 4 Americans has appeared someway or another on television."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
