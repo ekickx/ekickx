@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"Women manage the money and pay the bills in  75% of all Americans households."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
