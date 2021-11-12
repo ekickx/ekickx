@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"Each month, there is at least one report of UFOs from each province of Canada."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
