@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-"The only 15-letter word that can be spelled without repeating a letter is uncopyrightable."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+"Half of all Americans live within 50 miles of their birthplace."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
