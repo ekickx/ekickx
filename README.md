@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"Each month, there is at least one report of UFOs from each province of Canada."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"The only 15-letter word that can be spelled without repeating a letter is uncopyrightable."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
