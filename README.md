@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-"One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+"A piece of paper can be folded no more then 9 times."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
