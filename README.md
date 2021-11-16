@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-"February 1865 is the only month in recorded history not to have a full moon."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+"If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
