@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"There are 1,792 steps in the Eiffel Tower"
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
