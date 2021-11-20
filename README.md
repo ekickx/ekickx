@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"The very first song played on MTV was `Video Killed The Radio Star` by the Buggles."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"The storage capacity of human brain exceeds 4 Terabytes."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
