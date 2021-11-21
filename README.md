@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"The storage capacity of human brain exceeds 4 Terabytes."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"60% of electrocutions occur while talking on the telephone during a thunderstorm."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
