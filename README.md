@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"Each month, there is at least one report of UFOs from each province of Canada."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
