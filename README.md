@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-"When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+"The name Wendy was made up for the book "Peter Pan.""
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
