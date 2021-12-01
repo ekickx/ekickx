@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-"Annual growth of WWW traffic is 314,000%"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+"You spend 7 years of your life in the bathroom."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
