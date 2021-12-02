@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-"When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+"You can`t kill yourself by holding your breath.  "
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
