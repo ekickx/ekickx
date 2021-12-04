@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-"Telly Savalas and Louis Armstrong died on their birthdays.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+"Until 1994, world maps and globes sold in Albania only had Albania on them."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
