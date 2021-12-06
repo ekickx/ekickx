@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
-"The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+"Simplistic passwords contribute to over 80% of all computer password break-ins."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
