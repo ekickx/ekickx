@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-"Simplistic passwords contribute to over 80% of all computer password break-ins."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+"Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
