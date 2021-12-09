@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-"Ingrown toenails are hereditary.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+"Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
