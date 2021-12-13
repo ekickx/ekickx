@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-"Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  "
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+"The sperm of a mouse is actually longer than the sperm of an elephant."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
