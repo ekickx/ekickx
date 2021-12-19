@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-"The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow"
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+"There were always 56 curls in Shirley Temple`s hair."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
