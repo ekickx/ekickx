@@ -2,8 +2,8 @@
 
 <h3>
   <blockquote>
-<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
-"There were always 56 curls in Shirley Temple`s hair."
+<!--START_SECTION:debris-->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+"Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself."
 <!--END_SECTION:debris-->
   </blockquote>
 </h3>
